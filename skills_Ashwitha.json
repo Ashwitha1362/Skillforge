@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Git & Github",
+        "category": "Technical",
+        "level": "Beginner"
+    },
+    {
+        "name": "Java",
+        "category": "Programming",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Resume Writing",
+        "category": "Career",
+        "level": "Beginner"
+    },
+    {
+        "name": "Ledership",
+        "category": "Personal",
+        "level": "Beginner"
+    },
+    {
+        "name": "Problem solving",
+        "category": "Analytical",
+        "level": "Beginner"
+    }
+]
